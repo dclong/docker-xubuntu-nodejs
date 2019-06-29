@@ -1,4 +1,4 @@
-# [dclong/xubuntu-nodejs](https://hub.docker.com/r/dclong/xubuntu-nodejs/)
+# dclong/xubuntu-nodejs [@DockerHub](https://hub.docker.com/r/dclong/xubuntu-nodejs/) | [@GitHub](https://github.com/dclong/docker-xubuntu-nodejs)
 
 ## Detailed Information
 
